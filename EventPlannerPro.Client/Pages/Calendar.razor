@@ -1,0 +1,26 @@
+@page "/calendar"
+@using EventPlannerPro.Shared
+
+<h3>Calendar</h3>
+
+<ul>
+    @foreach (var ev in Events)
+    {
+        <li>@ev.Name</li>
+    }
+</ul>
+
+@code {
+    private List<PlannerEvent> Events { get; set; }
+
+    protected override void OnInitialized()
+    {
+        Events = new List<PlannerEvent>
+        {
+            new PlannerEvent { Name = "Event 1" },
+            new PlannerEvent { Name = "Event 2" },
+            new PlannerEvent { Name = "Event 3" }
+        };
+    }
+}
+

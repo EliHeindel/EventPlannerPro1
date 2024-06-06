@@ -1,0 +1,6 @@
+@EventPlannerPro.Server_HostAddress = http://localhost:5258
+
+GET {{EventPlannerPro.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

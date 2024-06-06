@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xrIPOyMBttUzxJAtHINmZa6VO348uGxuOOeuVNpFW4M=",
+  "Source": "EventPlannerPro.Server",
+  "BasePath": "_content/EventPlannerPro.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

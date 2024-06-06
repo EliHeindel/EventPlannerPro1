@@ -1,0 +1,11 @@
+C:\Users\heind\EventPlannerPro\EventPlannerPro.Shared\bin\Debug\net8.0\EventPlannerPro.Shared.deps.json
+C:\Users\heind\EventPlannerPro\EventPlannerPro.Shared\bin\Debug\net8.0\EventPlannerPro.Shared.dll
+C:\Users\heind\EventPlannerPro\EventPlannerPro.Shared\bin\Debug\net8.0\EventPlannerPro.Shared.pdb
+C:\Users\heind\EventPlannerPro\EventPlannerPro.Shared\obj\Debug\net8.0\EventPlannerPro.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heind\EventPlannerPro\EventPlannerPro.Shared\obj\Debug\net8.0\EventPlannerPro.Shared.AssemblyInfoInputs.cache
+C:\Users\heind\EventPlannerPro\EventPlannerPro.Shared\obj\Debug\net8.0\EventPlannerPro.Shared.AssemblyInfo.cs
+C:\Users\heind\EventPlannerPro\EventPlannerPro.Shared\obj\Debug\net8.0\EventPlannerPro.Shared.csproj.CoreCompileInputs.cache
+C:\Users\heind\EventPlannerPro\EventPlannerPro.Shared\obj\Debug\net8.0\EventPlannerPro.Shared.dll
+C:\Users\heind\EventPlannerPro\EventPlannerPro.Shared\obj\Debug\net8.0\refint\EventPlannerPro.Shared.dll
+C:\Users\heind\EventPlannerPro\EventPlannerPro.Shared\obj\Debug\net8.0\EventPlannerPro.Shared.pdb
+C:\Users\heind\EventPlannerPro\EventPlannerPro.Shared\obj\Debug\net8.0\ref\EventPlannerPro.Shared.dll
